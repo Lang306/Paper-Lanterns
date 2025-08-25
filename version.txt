@@ -1,0 +1,23 @@
+[ 中文 ]
+😍 八月二十号提交0.0.2版本.
+开始!:
+实现命运之书基本功能,输入问题,随机选择赋予回答.
+
+😍 八月二十五号提交0.0.3版本.
+修改:
+1.修改books.txt内容.
+2.美观化窗口,增加五颜六色更活力.
+3.新增设置窗口,自由修改文本大小.
+4.重磅更新!新增导出彩色图片功能,赋予更多趣味.
+
+[English]
+😍 Version 0.0.2 was submitted on August 20th.
+Begin!:
+Realize the basic functions of the Book of Destiny, enter questions, and randomly select answers.
+
+😍 Version 0.0.3 was submitted on August 25th.
+Revise:
+1. Modify books.txt content.
+2. Aestheticize the window, add colorful and more vibrant.
+3. Add a settings window to freely modify the text size.
+4. Blockbuster update! Added the function of exporting color pictures to give more interest.
